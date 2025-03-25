@@ -1,5 +1,6 @@
 # Natural-Sampling
-# VENKATESAN S (212223060296)
+# VENKATESAN S 
+# (212223060296)
 
 ## Aim
 The goal of this program is to demonstrate the concept of Natural Sampling by sampling a continuous signal at regular intervals while keeping the original waveform intact between the sampling instances. It visualizes both the continuous signaland its corresponding discrete samples to illustrate the natural sampling process in signal processing.
